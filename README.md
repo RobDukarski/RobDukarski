@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey, I'm Rob!
 
-<!--
-**RobDukarski/RobDukarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy developing friendly web-based projects for others to experience. Lately I have been working with React via Next.js lately building a personal blog alongside a new portfolio website. Aside from that project I am working on a number of side-projects/businesses including a wood furniture making business that I started with a friend I met through church.
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": {
+    "first": "Rob",
+    "last": "Dukarski"
+  },
+  "description": "Living the purple life!! Dreaming about helping to unite the world!",
+  "motto": "Transcend Greatness",
+  "job": {
+    "company": "CodeClouds (USA)",
+    "position": "Team Lead",
+    "url": "https://codeclouds.com"
+  },
+  "links": {
+    "facebook": "https://facebook.com/RobDukarski",
+    "github": "https://github.com/RobDukarski",
+    "instagram": "https://instagram.com/RobDukarski",
+    "linkedin": "https://www.linkedin.com/in/RobDukarski",
+    "mal": "https://myanimelist.net/profile/RobDukarski",
+    "twitter": "https://twitter.com/RobDukarski",
+    "www": "https://rob.dukar.ski"
+  }
+}
+```
