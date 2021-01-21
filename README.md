@@ -1,6 +1,6 @@
 # Hey, I'm Rob!
 
-I enjoy developing friendly web-based projects for others to experience. Lately I have been working with React via Next.js building a personal blog alongside a new portfolio website. Aside from that project I am working on a number of side-projects/businesses including a wood furniture making business that I started with a friend I met through church.
+I enjoy developing user-friendly web-based projects for others to experience. Lately I have been working with React via Next.js building a personal blog alongside a new portfolio website. Aside from that project I am working on a number of side-projects/businesses including a wood furniture making business that I started with a friend I met through church.
 
 ## Overview
 
