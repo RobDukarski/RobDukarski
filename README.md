@@ -13,9 +13,9 @@ I enjoy developing user-friendly web-based projects for others to experience. La
   "description": "Living the purple life!! Dreaming about helping to unite the world!",
   "motto": "Transcend Greatness",
   "job": {
-    "company": "CodeClouds (USA)",
-    "position": "Team Lead",
-    "url": "https://codeclouds.com"
+    "company": "Storetasker",
+    "position": "Shopify Developer",
+    "url": "https://storetasker.com/experts/rob-dukarski"
   },
   "links": {
     "facebook": "https://facebook.com/RobDukarski",
