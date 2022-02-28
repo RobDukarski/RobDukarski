@@ -1,6 +1,6 @@
 # Hey, I'm Rob!
 
-I enjoy developing user-friendly web-based projects for others to experience. Lately I have been working with React via Next.js building a personal blog alongside a new portfolio website. Aside from that project I am working on a number of side-projects/businesses including a wood furniture making business that I started with a friend I met through church.
+I specialize in use of the Shopify ecommerce platform with 10+ years of professional web development experience. I am beyond significantly motivated to help ensure that the merchants, agencies, and freelancers I work with personally feel I am a reliable partner. I focus on key aspects including but not limited to business operations, customer rentention, conversion, and technology solutions working collaboratively, generally with C-level executives, to strategizes ideas that may help improve their workflow, increase their revenue, and realize their ambitions through positively impactful mentorship, effective communication and time management, and providing performant experiences for their customers. I am also working on a number of side-projects/businesses including a wood furniture making business that I started with a friend I met through church.
 
 ## Overview
 
@@ -14,7 +14,7 @@ I enjoy developing user-friendly web-based projects for others to experience. La
   "motto": "Transcend Greatness",
   "job": {
     "company": "Storetasker",
-    "position": "Shopify Developer",
+    "role": "Senior Shopify Developer",
     "url": "https://storetasker.com/experts/rob-dukarski"
   },
   "links": {
@@ -23,8 +23,7 @@ I enjoy developing user-friendly web-based projects for others to experience. La
     "instagram": "https://instagram.com/RobDukarski",
     "linkedin": "https://www.linkedin.com/in/RobDukarski",
     "mal": "https://myanimelist.net/profile/RobDukarski",
-    "twitter": "https://twitter.com/RobDukarski",
-    "www": "https://rob.dukar.ski"
+    "twitter": "https://twitter.com/RobDukarski"
   }
 }
 ```
