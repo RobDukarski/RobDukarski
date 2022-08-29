@@ -10,11 +10,11 @@ I specialize in use of the Shopify ecommerce platform with 10+ years of professi
     "first": "Rob",
     "last": "Dukarski"
   },
-  "description": "Living the purple life!! Dreaming about helping to unite the world!",
+  "description": "Living the purple life!! Impacting the lives of merchants and their customers!",
   "motto": "Transcend Greatness",
   "job": {
     "company": "Storetasker",
-    "role": "Senior Shopify Developer",
+    "role": "Senior Full-Stack Shopify Developer",
     "url": "https://storetasker.com/experts/rob-dukarski"
   },
   "links": {
