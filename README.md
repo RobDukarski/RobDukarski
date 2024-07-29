@@ -13,9 +13,9 @@ I specialize in use of the Shopify ecommerce platform with 10+ years of professi
   "description": "Living the purple life!! Impacting the lives of merchants and their customers!",
   "motto": "Transcend Greatness",
   "job": {
-    "company": "Prismfly",
-    "role": "Lead Full Stack Developer",
-    "url": "https://prismfly.com"
+    "company": "Storetasker",
+    "role": "Senior Full Stack Shopify Developer",
+    "url": "https://storetasker.com/experts/rob-dukarski"
   },
   "links": {
     "facebook": "https://facebook.com/RobDukarski",
