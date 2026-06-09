@@ -13,9 +13,9 @@ I specialize in use of the Shopify ecommerce platform with 15+ years of professi
   "description": "Living the purple life!! Impacting the lives of merchants and their customers!",
   "motto": "Transcend Greatness",
   "job": {
-    "company": "Storetasker",
-    "role": "Senior Full Stack Shopify Developer",
-    "url": "https://storetasker.com/experts/rob-dukarski"
+    "company": "Cobalt Commerce",
+    "role": "Senior Lead Software Engineer",
+    "url": "https://cobaltcommerce.com"
   },
   "links": {
     "facebook": "https://facebook.com/RobDukarski",
